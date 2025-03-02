@@ -1,2 +1,2 @@
 def sapa(nama):
-    return f"Halo tiur dan rengganis !"
+    return f"waduh capek rek"
